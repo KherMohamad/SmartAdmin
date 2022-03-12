@@ -1,0 +1,17 @@
+C:\Users\Mohamad\source\repos\SQLDataAccess\ProcedureGridUI\bin\Debug\ProcedureGridUI.exe.config
+C:\Users\Mohamad\source\repos\SQLDataAccess\ProcedureGridUI\bin\Debug\ProcedureGridUI.exe
+C:\Users\Mohamad\source\repos\SQLDataAccess\ProcedureGridUI\bin\Debug\ProcedureGridUI.pdb
+C:\Users\Mohamad\source\repos\SQLDataAccess\ProcedureGridUI\bin\Debug\Dapper.dll
+C:\Users\Mohamad\source\repos\SQLDataAccess\ProcedureGridUI\bin\Debug\Dapper.xml
+C:\Users\Mohamad\source\repos\SQLDataAccess\ProcedureGridUI\obj\Debug\ProcedureGridUI.Dashboard.resources
+C:\Users\Mohamad\source\repos\SQLDataAccess\ProcedureGridUI\obj\Debug\ProcedureGridUI.Properties.Resources.resources
+C:\Users\Mohamad\source\repos\SQLDataAccess\ProcedureGridUI\obj\Debug\ProcedureGridUI.csproj.GenerateResource.cache
+C:\Users\Mohamad\source\repos\SQLDataAccess\ProcedureGridUI\obj\Debug\ProcedureGridUI.csproj.CoreCompileInputs.cache
+C:\Users\Mohamad\source\repos\SQLDataAccess\ProcedureGridUI\obj\Debug\ProcedureGridUI.csproj.CopyComplete
+C:\Users\Mohamad\source\repos\SQLDataAccess\ProcedureGridUI\obj\Debug\ProcedureGridUI.exe
+C:\Users\Mohamad\source\repos\SQLDataAccess\ProcedureGridUI\obj\Debug\ProcedureGridUI.pdb
+C:\Users\Mohamad\source\repos\SQLDataAccess\ProcedureGridUI\obj\Debug\ProcedureGridUI.FormularInregistrareAngajati.resources
+C:\Users\Mohamad\source\repos\SQLDataAccess\ProcedureGridUI\obj\Debug\ProcedureGridUI.Main_panel.resources
+C:\Users\Mohamad\source\repos\SQLDataAccess\ProcedureGridUI\obj\Debug\ProcedureGridUI.Statistici_Departamente.resources
+C:\Users\Mohamad\source\repos\SQLDataAccess\ProcedureGridUI\obj\Debug\ProcedureGridUI.csprojAssemblyReference.cache
+C:\Users\Mohamad\source\repos\SQLDataAccess\ProcedureGridUI\obj\Debug\ProcedureGridUI.Boredom_Button.resources
